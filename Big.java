@@ -5,7 +5,7 @@ public class Big{
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        System.out.println((a+b)/2);
-        
+        System.out.println("This is the average of two numbers : " + (a+b)/2);
+           
     }
 }
