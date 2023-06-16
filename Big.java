@@ -4,8 +4,8 @@ public class Big{
         System.out.println("Write two numbers :");
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
-        int b = sc.nextIn t();
+        int b = sc.nextInt();
         System.out.println((a+b)/2);
-        Sytem
+        
     }
 }
