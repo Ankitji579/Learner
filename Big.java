@@ -1,11 +1,19 @@
 import java.util.*;
-public class Big{
-    public static void main(String [] args){
-        System.out.println("Write two numbers :");
+public class Big {
+    public static void main(String Args[]){
+       /* double pi = 3.14;
+        System.out.println("Write the radius of cicles:");
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        System.out.println("This is the average of two numbers : " + (a+b)/2);
-           
+        float rad = sc.nextFloat();
+        System.out.println("Perimeter of the circle is: " + (2 *pi* rad) );
+        System.out.println("Area of the circle: " + (pi*rad*rad));
+        */
+        System.out.println("Write any two numbers:");
+        Scanner sc = new Scanner(System.in);
+        float num1 = sc.nextFloat(); 
+        float num2 = sc.nextFloat(); 
+        float add = num1 + num2;
+        System.out.println("Addition of two numbers:" + add);
+
     }
 }
