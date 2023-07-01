@@ -11,7 +11,7 @@ public class Big {
         Scanner sc = new Scanner(System.in);
         float num1 = sc.nextFloat(); 
         float num2 = sc.nextFloat(); 
-        float add = num1 + num2;
+        float add = num1 + num2;;
         System.out.println("Addition of these two numbers:" + add);
        */
        char a ='a' ; char b = 'b' ;
