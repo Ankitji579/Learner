@@ -13,12 +13,29 @@ public class Big {
         float num2 = sc.nextFloat(); 
         float add = num1 + num2;;
         System.out.println("Addition of these two numbers:" + add);
-       */
+       
        char a ='a' ; char b = 'b' ;
        int c =  (int) a - (int)b;
        System.out.println(c);
        System.out.println(a);
-       
+       System.out.println(a+c);
+       System.out.println(a-c);
+       System.out.println(a-b);
+        */
+        int i; int j; 
+        for (i=0;i<5;i++){ 
+            for (j=1; j<=i;j++){
+                System.out.println("*");
+            }
+        }
 
+
+       /* System.out.println("*");
+        System.out.println("**");
+        System.out.println("***");
+        System.out.println("****");
+        System.out.println("*****");
+        */
+        
     }
 }
