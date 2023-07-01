@@ -13,7 +13,7 @@ public class Big {
         float num1 = sc.nextFloat(); 
         float num2 = sc.nextFloat(); 
         float add = num1 + num2;
-        System.out.println("Addition of two numbers:" + add);
+        System.out.println("Addition of these two numbers:" + add);
 
     }
 }
