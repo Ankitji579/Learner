@@ -1,4 +1,31 @@
 import java.util.*;
+asdjknad
+    adjkanbsdasd
+    asdhnasndasd
+    adkajsdnkjansdkjasb d asd
+
+
+
+    askdnakjsnda
+    da;osda
+    sd
+    as
+    d
+    asd
+    as
+    d
+    asd
+    as
+    d
+    as
+    das
+    d
+    asdas
+    d
+    asd
+    as
+    da
+    sd
 public class Big {
     public static void main(String Args[]){
       
