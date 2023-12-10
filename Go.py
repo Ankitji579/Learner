@@ -22,7 +22,7 @@ VERSION = '1.0'
 # 0000 => 0    empty sqare
 # 0001 => 1    black stone
 # 0010 => 2    white stone
-# 0100 => 4    stone marker
+# 0100 => 4    stone markerazxc
 # 0111 => 7    offboard square
 # 1000 => 8    liberty marker
 #
