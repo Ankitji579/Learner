@@ -1,9 +1,4 @@
-###################################
-#
-#   WALLY by Jonathan K. Millen
-#     (reconstruction by CMK)
-#
-###################################
+THIS IS NEW LINE
 
 from __future__ import print_function
 def eprint(*args, **kwargs): print(*args, file=sys.stderr, **kwargs)
